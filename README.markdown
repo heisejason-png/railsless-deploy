@@ -56,3 +56,4 @@ If you want to try before you buy, here's the list of tasks included with this v
 Via my Github profile please:
 
     http://github.com/leehambley
+Created by Jason Scott Heise
